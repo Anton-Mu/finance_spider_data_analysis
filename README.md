@@ -24,8 +24,9 @@ class MyMysql:
 ```
 
 其中，数据库应按照如下结构建立：
-![image](https://github.com/Anton-Mu/financial-spider-data-analysis/blob/main/Pasted%20image%2020230203132808.png)
-![image](https://github.com/Anton-Mu/financial-spider-data-analysis/blob/main/Pasted%20image%2020230203133135.png)
+![image](https://github.com/Anton-Mu/finance_spider_data_analysis/blob/main/guba_struc.png)
+![image](https://github.com/Anton-Mu/finance_spider_data_analysis/blob/main/sina_struc.png)
+![image](https://github.com/Anton-Mu/finance_spider_data_analysis/blob/main/ua_struc.png)
 其中，数据库ua_pool为用于生成随机请求头user_agent的库，需要在建立完成数据库后导入位于文件根目录下的```ua_pool.sql```文件数据。
 
 如果需要实现邮件发送功能，则还需要配置如下参数：
