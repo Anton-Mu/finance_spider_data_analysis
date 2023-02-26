@@ -1,6 +1,9 @@
 # financial-spider-data-analysis
 # 金融爬虫与数据分析
 本项目功能为爬取指定股票的新浪财经数据与东方财富股吧舆论数据，作情感分析与数据分析后，自动生成docx格式分析报告，并发送至指定邮箱。
+本项目录制了配套视频讲解教程，发布在b站上，地址为：
+爬虫部分：https://www.bilibili.com/video/BV19D4y1g7Yp/?spm_id_from=333.999.0.0&vd_source=6aacace1780d48191a4d50dd173ad887
+数据分析与存储部分：正在制作中...
 
 ## 使用方法
 ### 本地运行
